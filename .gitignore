@@ -1,3 +1,6 @@
 *.csv
 2016_11_14_7dayOldArticles_60mins.csv
 99_EditTable.ipynb
+.ipynb_checkpoints/01a_S2DS_PredictOnlineArticlePerformance-checkpoint.ipynb
+.ipynb_checkpoints/99_EditTable-checkpoint.ipynb
+.ipynb_checkpoints/02a_OnlineArticleData_TimeProfile&ReferralBreakdown-checkpoint.ipynb
